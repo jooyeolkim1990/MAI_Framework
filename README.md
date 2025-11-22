@@ -1,7 +1,4 @@
 # MAI_Framework
-Semantic Convergence Framework for LLM Alignment
-
-# MAI_Framework
 
 **Meta-Axiomatic Intersection (MAI)** is a conceptual framework for aligning semantic representations across LLMs.  
 It introduces a multi-stage process of **Axiom → Intersection → Contraction → F\*** to formalize semantic convergence in multi-agent systems.
@@ -21,7 +18,6 @@ It introduces a multi-stage process of **Axiom → Intersection → Contraction 
 - `proto_mai/` — Prototype codebase for semantic analysis
 - `docs/` — Framework definitions, whitepaper drafts, and structure notes
 - `media/` — Graphical assets (e.g. flowcharts, diagrams)
-- `logs/` — (Optional) Raw or semi-processed analysis input logs
 
 ---
 
