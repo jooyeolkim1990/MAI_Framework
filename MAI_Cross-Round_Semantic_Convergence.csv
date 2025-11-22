@@ -1,0 +1,6 @@
+From,To,Semantic_Similarity,Semantic_Drift
+R1_P1,R1_P2-1,0.374,0.626
+R1_P2-2,R2_P1,0.335,0.665
+R2_P1,R2_P2-1,0.451,0.549
+R2_P2-2,R3_P1,0.489,0.511
+R3_P1,R3_P2,0.494,0.506
