@@ -18,6 +18,9 @@ It introduces a multi-stage process of **Axiom → Intersection → Contraction 
 - `proto_mai/` — Prototype codebase for semantic analysis
 - `docs/` — Framework definitions, whitepaper drafts, and structure notes
 - `media/` — Graphical assets (e.g. flowcharts, diagrams)
+- `notebooks/` — Lightweight MAI demos you can run instantly
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jooyeolkim1990/MAI_Framework/blob/main/notebooks/MAI_Semantic_Convergence_Analysis.ipynb)
+
 
 ---
 
